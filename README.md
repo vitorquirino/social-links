@@ -9,3 +9,4 @@
 - no mobile📱
 - ![Captura de tela 2023-06-26 174651 (2)](https://github.com/vitorquirino/social-links/assets/104791533/177e1b24-575b-4a8f-b4d9-02005940595a)
 
+link do site: https://vitorquirino.github.io/social-links/
